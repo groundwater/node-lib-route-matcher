@@ -1,0 +1,29 @@
+{
+  "name": "lib-route-matcher",
+  "description": "route matching",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js && tap test"
+  },
+  "devDependencies": {
+    "tap": "^0.4.8",
+    "jshint": "^2.4.4"
+  },
+  "dependencies": {
+    "routes": "^0.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/groundwater/node-lib-route-matcher.git"
+  },
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/groundwater/node-lib-route-matcher/issues"
+  },
+  "homepage": "https://github.com/groundwater/node-lib-route-matcher"
+}
