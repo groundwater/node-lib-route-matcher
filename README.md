@@ -1,4 +1,6 @@
-# Routes.js
+# lib-routes-matcher
+
+> match http routes
 
 [![Build Status](https://travis-ci.org/groundwater/node-lib-route-matcher.svg?branch=master)](https://travis-ci.org/groundwater/node-lib-route-matcher)
 
@@ -31,4 +33,3 @@ Where `HANDLE` can be a function, a token, or anything you like.
 ## see also
 
 - [lib-route-generator](https://github.com/groundwater/node-lib-route-generator)
-  
